@@ -1,4 +1,3 @@
-# git-learning-session-practice
 # Git Learning Session – Practice Instructions
 
 ## 1. Create a GitHub account
@@ -38,9 +37,6 @@ git checkout -b test-jorge
 Create a new file using this pattern: `hello-world-{your_name}.txt`
 
 Example: `hello-world-jorge.txt`
-```bash
-touch hello-world-yourname.txt
-```
 
 Add any content you like to the file. For example:
 ```
